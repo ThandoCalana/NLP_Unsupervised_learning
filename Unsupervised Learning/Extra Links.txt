@@ -1,0 +1,23 @@
+PCA Visualization in Python - https://plotly.com/python/pca-visualization/
+
+In-Depth: PCA - https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.09-Principal-Component-Analysis.ipynb 
+
+Step-by-step (video) - https://www.youtube.com/watch?v=FgakZw6K1QQ&ab_channel=StatQuestwithJoshStarmer
+
+Unsupervised Learning (video) - https://www.youtube.com/watch?v=WIMgMBYqhKE
+
+Exploring PCA and proportion of variance - https://www.youtube.com/watch?v=zMfomUERNww 
+
+Unsupervised Learning (pdf) - https://hastie.su.domains/MOOC-Slides/unsupervised.pdf 
+
+Visualising high-dimensional space (video) - https://www.youtube.com/watch?v=wvsE8jm1GzE
+
+Experiments with Google: Infinite drum machine - https://experiments.withgoogle.com/drum-machine 
+
+Embedding projector: Visualising high-dimensional space - http://projector.tensorflow.org/ 
+
+In Depth: Manifold Learning - https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.10-Manifold-Learning.ipynb
+
+How to use t-SNE effectively - https://distill.pub/2016/misread-tsne/ 
+
+StatQuest: t-SNE (video) - https://www.youtube.com/watch?v=NEaUSP4YerM
